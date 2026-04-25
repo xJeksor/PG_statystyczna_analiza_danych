@@ -1,0 +1,2 @@
+# PG_statystyczna_analiza_danych
+EDA
