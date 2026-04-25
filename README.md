@@ -1,3 +1,3 @@
 # PG_statystyczna_analiza_danych
 EDA
-test
+test gggv 
