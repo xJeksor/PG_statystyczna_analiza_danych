@@ -1,3 +1,3 @@
-##Wojciech Ossowski##
-##OSkar Zielonka##
-##Filip Urban##
+# Wojciech Ossowski
+# OSkar Zielonka
+# Filip Urban
